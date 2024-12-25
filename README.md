@@ -42,7 +42,7 @@ To run the project locally, follow the steps below:
    Open your terminal or command prompt and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/fitness-management-system.git
+   git clone https://github.com/Ankit875703/online-fitness-website
 Navigate to the Project Directory:
 
 bash
